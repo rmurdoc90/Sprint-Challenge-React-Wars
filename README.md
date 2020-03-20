@@ -24,15 +24,26 @@ In this challenge, create a web page that presents a styled list of Star Wars ch
 
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your Team Lead.
 
-- [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
+- [x] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
-- [ ] What does it mean to _think_ in react?
+  -reactJS tries to solve the problem is being able to manipulate a virtual DOM so the entire page doesnt have to refresh 
 
-- [ ] Describe state.
+- [x] What does it mean to _think_ in react?
 
-- [ ] Describe props.
+    -React has the ability to import massive ammounts of data, through hooks buttons and selection, you can pick what data you want . Essentially allowing React to sort through the data and think for you
 
-- [ ] What are side effects, and how do you sync effects in a React component to state or prop changes?
+
+- [x] Describe state.
+
+  -state is the current varuables that can change through useEffects
+
+- [x] Describe props.
+
+  -props are properties passed from a parent to a child
+
+- [x] What are side effects, and how do you sync effects in a React component to state or prop changes?
+
+  -side effects are actions that happen or change when the state of props of a component change in react
 
 ## Project Set Up
 
